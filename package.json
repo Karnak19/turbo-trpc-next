@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "next-transpile-modules": "^10.0.0",
+    "use-sync-external-store": "^1.2.0"
+  },
   "packageManager": "yarn@1.22.19"
 }
